@@ -3,6 +3,8 @@
 a.out
 main
 main.exe
+.exe
+*.exe
 
 # Object files
 *.o
